@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kakota de piña
+=======
+kakota de fresa
+>>>>>>> 5a2584f88562ce11311c6d0e901a24b08f279414
